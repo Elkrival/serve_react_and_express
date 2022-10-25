@@ -1,0 +1,4 @@
+{
+  "watch": ["src/server/"],
+  "exclude": ["node_modules", "src/client"]
+}
